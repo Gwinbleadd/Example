@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Мое обучение\\Introduction to Programming\\Example\\Example.csproj": {}
+    "C:\\Мое обучение\\Introduction to Programming\\Example\\Example001\\Example.csproj": {}
   },
   "projects": {
-    "C:\\Мое обучение\\Introduction to Programming\\Example\\Example.csproj": {
+    "C:\\Мое обучение\\Introduction to Programming\\Example\\Example001\\Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Мое обучение\\Introduction to Programming\\Example\\Example.csproj",
+        "projectUniqueName": "C:\\Мое обучение\\Introduction to Programming\\Example\\Example001\\Example.csproj",
         "projectName": "Example",
-        "projectPath": "C:\\Мое обучение\\Introduction to Programming\\Example\\Example.csproj",
+        "projectPath": "C:\\Мое обучение\\Introduction to Programming\\Example\\Example001\\Example.csproj",
         "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "C:\\Мое обучение\\Introduction to Programming\\Example\\obj\\",
+        "outputPath": "C:\\Мое обучение\\Introduction to Programming\\Example\\Example001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config"
